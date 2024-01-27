@@ -15,7 +15,7 @@
   <img align="center" alt="Ster-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ster-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Ster-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="right" src="https://public.dm.files.1drv.com/y4mY-YItqzAe2LnBXwlXTY-ucDG-ntMn6qD3MOVPqCfPUUfGMkTahe_KpF-yXOxpf0ftX0WfgDW1dpfIvsQIftvmX_KDTrhW4nHZUAClPgxYItkUejmGbGLTP7oZOBUKeoltfzMf49UNBZwOszEMtNPLxv_wd_MZU5ZDCa-zecxymDteHuIAf4TZzVHihbF3Yw4x-96BCJoK6GqUZnxsXAOYVEX4B2_J1NgVCe0-GvLsn8" alt="sterzinha">
+ 
 </div>
    
 ##
