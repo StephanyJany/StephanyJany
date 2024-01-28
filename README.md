@@ -9,7 +9,7 @@
 
 ##
 
-### Estudando HTML e CSS, para seguir em breve em JAVASCRIPT
+### Estudando HTML / CSS / JAVASCRIPT
 
 <div style="display: inline_block">
   <img align="center" alt="Ster-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
